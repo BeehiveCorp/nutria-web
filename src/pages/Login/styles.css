@@ -1,0 +1,17 @@
+.content {
+  height: 100vh;
+}
+
+.form {
+  width: 35vw;
+}
+
+.title {
+  margin-bottom: 16px;
+  display: block;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
