@@ -160,3 +160,21 @@ table {
 a {
   color: #00f060;
 }
+
+.btn {
+  background-color: #00f060;
+  border-color: #00f060;
+  color: #000;
+  font-weight: 600;
+}
+
+.btn:hover {
+  background-color: #00c850;
+  border-color: #00c850;
+  color: #000;
+}
+
+.btn:focus {
+  background-color: #00c850 !important;
+  border-color: #00c850 !important;
+}

@@ -12,6 +12,11 @@
 }
 
 .logo {
-  width: 100px;
-  height: 100px;
+  width: 160px;
+}
+
+.product-card {
+  background-color: #131313;
+  border-radius: 8px;
+  margin-bottom: 8px;
 }
